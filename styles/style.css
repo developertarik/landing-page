@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(157, 153, 153);
+    display:flex;
+}
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
